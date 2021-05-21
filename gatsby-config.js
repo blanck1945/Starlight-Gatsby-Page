@@ -14,6 +14,7 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    "@chakra-ui/gatsby-plugin",
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
